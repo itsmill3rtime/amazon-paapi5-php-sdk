@@ -15,7 +15,6 @@
     ],
     "require" : {
         "php" : ">=7.2",
-        "guzzlehttp/guzzle" : "^6.5"
     },
     "autoload": {
         "psr-4": { "Amazon\\ProductAdvertisingAPI\\v1\\" : "src/" }
